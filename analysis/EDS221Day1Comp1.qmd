@@ -4,4 +4,7 @@ format: html
 editor: visual
 ---
 
-## 
+```{r}
+energy_2 <- read_csv("../data/us_energy.csv")
+# to get back one folder use "../"
+```
